@@ -5,3 +5,6 @@ Computerbenutzung und Programmieren SoSe 2024
   Hier wird meine Abschlussaufgabe hochgeladen!
 
   [Abschlussaufgabe](Liste.html)
+
+
+[FOTO](https://github.com/TinekeSocas/Computer/blob/main/IMG_3028.png)
