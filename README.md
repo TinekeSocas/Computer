@@ -7,4 +7,4 @@ Computerbenutzung und Programmieren SoSe 2024
   [Abschlussaufgabe](Liste.html)
 
 
-[FOTO](https://github.com/TinekeSocas/Computer/blob/main/IMG_3028.png)
+[😱](https://github.com/TinekeSocas/Computer/blob/main/IMG_3028.png)
