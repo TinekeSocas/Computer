@@ -7,4 +7,4 @@
   [Abschlussaufgabe](Liste.html)
 
 
-[😱😱😱😱😱😱😱](https://github.com/TinekeSocas/Computer/blob/main/IMG_3028.png)
+[TINEKE SOCAS LEEUWENBURG](Im.html)
